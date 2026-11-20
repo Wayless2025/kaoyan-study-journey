@@ -6830,5 +6830,130 @@
     "folder": "英语一/真题/2025年/阅读",
     "published_at": "2026-11-19T23:28:51+08:00",
     "source": "https://www.douyin.com/note/7709904943793368229"
+  },
+  {
+    "id": "7710146918404589489",
+    "title": "2027肖八第四套 38/50。#考研 #考研上岸 #考研政治 #肖八",
+    "created_at": 1795158470,
+    "images": [
+      {
+        "file": "政治/模拟题/2027年/肖秀荣/八套卷/卷四/7710146918404589489-001.webp",
+        "index": 1,
+        "width": 1600,
+        "height": 2190,
+        "bytes": 50188,
+        "sha256": "eaf4f32ffb4672c3321201b36f8ad233bf61e9fcd8232912c9bde95758e4948e"
+      }
+    ],
+    "short": "2027肖八第四套 38/50",
+    "year": 2027,
+    "minutes": null,
+    "ratio": [
+      38,
+      50
+    ],
+    "score": 38,
+    "maximum": 50,
+    "score_expression": null,
+    "subject": "政治",
+    "kind": "模拟题",
+    "teacher": "肖秀荣",
+    "series": "八套卷",
+    "volume": "卷四",
+    "folder": "政治/模拟题/2027年/肖秀荣/八套卷/卷四",
+    "published_at": "2026-11-20T15:07:50+08:00",
+    "source": "https://www.douyin.com/note/7710146918404589489"
+  },
+  {
+    "id": "7710238233514888377",
+    "title": "2025年英一完形填空 11/20。#考研 #考研上岸 #英一",
+    "created_at": 1795179731,
+    "images": [
+      {
+        "file": "英语一/真题/2025年/完形填空/7710238233514888377-001.webp",
+        "index": 1,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 409626,
+        "sha256": "45cf0674eab38ca2202d7995de02aaa7b92a6f8c1220c5876f9875127f3b9cb5"
+      },
+      {
+        "file": "英语一/真题/2025年/完形填空/7710238233514888377-002.webp",
+        "index": 2,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 275748,
+        "sha256": "2933170b18628ceaead0d827879dbe7cd4fb32c14625a1854cabb141d40c9374"
+      },
+      {
+        "file": "英语一/真题/2025年/完形填空/7710238233514888377-003.webp",
+        "index": 3,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 403692,
+        "sha256": "ee30cb7fe3a7d53e43cf54dc87fa5b8f71d9e6ec2a866e83556020c8a3f418e4"
+      }
+    ],
+    "short": "2025年英一完形填空 11/20",
+    "year": 2025,
+    "minutes": null,
+    "ratio": [
+      11,
+      20
+    ],
+    "score": null,
+    "maximum": null,
+    "score_expression": null,
+    "subject": "英语一",
+    "kind": "真题",
+    "part": "完形填空",
+    "text_number": null,
+    "correct": 11,
+    "total_questions": 20,
+    "folder": "英语一/真题/2025年/完形填空",
+    "published_at": "2026-11-20T21:02:11+08:00",
+    "source": "https://www.douyin.com/note/7710238233514888377"
+  },
+  {
+    "id": "7710248919108930289",
+    "title": "2025年英一Text3 4/5。#考研 #考研上岸 #英一",
+    "created_at": 1795182219,
+    "images": [
+      {
+        "file": "英语一/真题/2025年/阅读/Text3-7710248919108930289-001.webp",
+        "index": 1,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 463474,
+        "sha256": "a71eaf31f7156dcbd1de9e1930e7915fdc78a4ac7c789fdeca3da193b4983a03"
+      },
+      {
+        "file": "英语一/真题/2025年/阅读/Text3-7710248919108930289-002.webp",
+        "index": 2,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 453114,
+        "sha256": "0f38b486b2cce19429a6fecec8e5574e655e0b7823cd3b177936e32e6eb2dbf8"
+      }
+    ],
+    "short": "2025年英一Text3 4/5",
+    "year": 2025,
+    "minutes": null,
+    "ratio": [
+      4,
+      5
+    ],
+    "score": null,
+    "maximum": null,
+    "score_expression": null,
+    "subject": "英语一",
+    "kind": "真题",
+    "part": "阅读",
+    "text_number": 3,
+    "correct": 4,
+    "total_questions": 5,
+    "folder": "英语一/真题/2025年/阅读",
+    "published_at": "2026-11-20T21:43:39+08:00",
+    "source": "https://www.douyin.com/note/7710248919108930289"
   }
 ]
