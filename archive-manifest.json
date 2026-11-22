@@ -7064,5 +7064,38 @@
     "folder": "政治/模拟题/2027年/肖秀荣/八套卷/卷五",
     "published_at": "2026-11-21T23:42:42+08:00",
     "source": "https://www.douyin.com/note/7710650680810264549"
+  },
+  {
+    "id": "7710987072428873841",
+    "title": "2027肖八第六套 34/50。#考研 #考研上岸 #考研政治 #肖八",
+    "created_at": 1795354083,
+    "images": [
+      {
+        "file": "政治/模拟题/2027年/肖秀荣/八套卷/卷六/7710987072428873841-001.webp",
+        "index": 1,
+        "width": 1080,
+        "height": 1721,
+        "bytes": 40350,
+        "sha256": "d54ce52f7a05a32a454d4aa3bccea6fcd4d74799d5b7f2563fb59580a1d34c54"
+      }
+    ],
+    "short": "2027肖八第六套 34/50",
+    "year": 2027,
+    "minutes": null,
+    "ratio": [
+      34,
+      50
+    ],
+    "score": 34,
+    "maximum": 50,
+    "score_expression": null,
+    "subject": "政治",
+    "kind": "模拟题",
+    "teacher": "肖秀荣",
+    "series": "八套卷",
+    "volume": "卷六",
+    "folder": "政治/模拟题/2027年/肖秀荣/八套卷/卷六",
+    "published_at": "2026-11-22T21:28:03+08:00",
+    "source": "https://www.douyin.com/note/7710987072428873841"
   }
 ]
