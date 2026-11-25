@@ -7240,5 +7240,72 @@
     "folder": "408/模拟题/2027年/王道/卷二",
     "published_at": "2026-11-25T11:12:53+08:00",
     "source": "https://www.douyin.com/note/7711941796741647205"
+  },
+  {
+    "id": "7711966966814665706",
+    "title": "2027徐涛10套卷 卷六 28/50。#考研 #考研上岸 #考研政治 #徐涛",
+    "created_at": 1795582233,
+    "images": [
+      {
+        "file": "政治/模拟题/2027年/徐涛/十套卷/卷六/7711966966814665706-001.webp",
+        "index": 1,
+        "width": 1600,
+        "height": 2178,
+        "bytes": 51508,
+        "sha256": "49758737a136b3075f52e454367cbfc4b0ab01cf730acc045602f57213040d09"
+      }
+    ],
+    "short": "2027徐涛10套卷 卷六 28/50",
+    "year": 2027,
+    "minutes": null,
+    "ratio": [
+      28,
+      50
+    ],
+    "score": 28,
+    "maximum": 50,
+    "score_expression": null,
+    "subject": "政治",
+    "kind": "模拟题",
+    "teacher": "徐涛",
+    "series": "十套卷",
+    "volume": "卷六",
+    "folder": "政治/模拟题/2027年/徐涛/十套卷/卷六",
+    "published_at": "2026-11-25T12:50:33+08:00",
+    "source": "https://www.douyin.com/note/7711966966814665706"
+  },
+  {
+    "id": "7712092984678278329",
+    "title": "2025年英一翻译 4/10。#考研 #考研上岸 #英一",
+    "created_at": 1795611574,
+    "images": [
+      {
+        "file": "英语一/真题/2025年/翻译/7712092984678278329-001.webp",
+        "index": 1,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 452430,
+        "sha256": "d9074a2ae1344c35b9c9b347f854898805b3619e610ccfd05b4465e64d4d80da"
+      }
+    ],
+    "short": "2025年英一翻译 4/10",
+    "year": 2025,
+    "minutes": null,
+    "ratio": [
+      4,
+      10
+    ],
+    "score": 4,
+    "maximum": 10,
+    "score_expression": null,
+    "subject": "英语一",
+    "kind": "真题",
+    "part": "翻译",
+    "text_number": null,
+    "correct": null,
+    "total_questions": null,
+    "folder": "英语一/真题/2025年/翻译",
+    "published_at": "2026-11-25T20:59:34+08:00",
+    "source": "https://www.douyin.com/note/7712092984678278329"
   }
 ]
