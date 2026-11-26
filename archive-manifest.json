@@ -7307,5 +7307,51 @@
     "folder": "英语一/真题/2025年/翻译",
     "published_at": "2026-11-25T20:59:34+08:00",
     "source": "https://www.douyin.com/note/7712092984678278329"
+  },
+  {
+    "id": "7712303174803192443",
+    "title": "2027李六卷一2h10min 110分。#考研 #考研上岸 #李六",
+    "created_at": 1795660512,
+    "images": [
+      {
+        "file": "数学/模拟题/2027年/李林/六套卷/卷一/7712303174803192443-001.webp",
+        "index": 1,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 443952,
+        "sha256": "f00f9a16fc8b39874eb2530bea66e571e398189a7f217729fcf28019dde871b8"
+      },
+      {
+        "file": "数学/模拟题/2027年/李林/六套卷/卷一/7712303174803192443-002.webp",
+        "index": 2,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 344746,
+        "sha256": "678e9bd4e05c48dcf3b1ccf61815a66402159a6df42301e12abe69201a3ee59e"
+      },
+      {
+        "file": "数学/模拟题/2027年/李林/六套卷/卷一/7712303174803192443-003.webp",
+        "index": 3,
+        "width": 2880,
+        "height": 2160,
+        "bytes": 457364,
+        "sha256": "3bbbad392f94538b1139b2f34655dcfdf8a984317db0c285d2743f1b90c7f5ee"
+      }
+    ],
+    "short": "2027李六卷一2h10min 110分",
+    "year": 2027,
+    "minutes": 130,
+    "ratio": null,
+    "score": 110,
+    "maximum": 150,
+    "score_expression": null,
+    "subject": "数学",
+    "kind": "模拟题",
+    "teacher": "李林",
+    "series": "六套卷",
+    "volume": "卷一",
+    "folder": "数学/模拟题/2027年/李林/六套卷/卷一",
+    "published_at": "2026-11-26T10:35:12+08:00",
+    "source": "https://www.douyin.com/note/7712303174803192443"
   }
 ]
